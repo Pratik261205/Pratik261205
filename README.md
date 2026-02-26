@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋  
+Senior Mobile App Developer | iOS • Flutter • Android  
 
-<!--
-**Pratik261205/Pratik261205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 12+ years of experience building high-quality, scalable mobile applications  
+💼 Helping startups & businesses turn ideas into production-ready apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 📱 Expert in **Flutter, iOS (Swift / UIKit / SwiftUI), Android (Kotlin)**
+- 🧱 Strong in **MVVM, Clean Architecture, SOLID principles**
+- 🔐 Experienced with **secure APIs, Firebase, authentication, payments**
+- 🤝 Comfortable working with **remote clients & distributed teams**
+- 🎯 Focused on **clean code, performance, and long-term maintainability**
+
+---
+
+## 🛠 Tech Stack
+**Mobile**
+- Flutter, Dart
+- iOS: Swift, UIKit, SwiftUI
+- Android: Kotlin
+
+**Backend / Tools**
+- REST APIs, Firebase
+- Node.js, .NET APIs (integration)
+- Git, GitHub, CI/CD
+- SQLite, PostgreSQL
+
+**Architecture & Practices**
+- MVVM, Clean Architecture
+- Dependency Injection
+- Unit & Widget Testing
+- Performance Optimization
+
+---
+
+## 📌 Featured Projects
+🔹 **Flutter Clean Architecture App**  
+- Scalable project structure  
+- API integration  
+- State management best practices  
+
+🔹 **iOS Advanced Concepts Demo**  
+- Concurrency & multithreading  
+- Memory management  
+- Real-world patterns  
+
+🔹 **Cross-Platform Business App**  
+- Flutter UI + native integrations  
+- Firebase auth & notifications  
+
+👉 Check pinned repositories below ⬇️
+
+---
+
+## 💼 Freelance Services
+I help clients with:
+- 📱 End-to-end mobile app development
+- 🔄 Existing app improvement & refactoring
+- ⚡ Performance & architecture optimization
+- 🧪 Bug fixing & stability improvements
+- 🚀 App Store & Play Store deployment
+
+---
+
+## 🤝 Let’s Work Together
+- 📧 Email: **your-email@example.com**
+- 🔗 LinkedIn: **your-linkedin-url**
+- 🌐 Portfolio: **your-portfolio-url**
+
+💬 Open to **long-term contracts**, **startup collaborations**, and **maintenance work**
