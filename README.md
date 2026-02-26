@@ -65,8 +65,8 @@ I help clients with:
 ---
 
 ## 🤝 Let’s Work Together
-- 📧 Email: **your-email@example.com**
-- 🔗 LinkedIn: **your-linkedin-url**
-- 🌐 Portfolio: **your-portfolio-url**
+- 📧 Email: **pkdaxini@gmail.com**
+- 🔗 LinkedIn: **www.linkedin.com/in/pratik-daxini-79987740**
+- 🌐 Portfolio: **[your-portfolio-url](https://www.upwork.com/freelancers/pratikd34)**
 
 💬 Open to **long-term contracts**, **startup collaborations**, and **maintenance work**
