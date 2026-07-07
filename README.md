@@ -1,72 +1,107 @@
-# Hi, I'm Pratik 👋  
-Senior Mobile App Developer | iOS • Flutter • Android  
+# Hi there 👋 I'm Pratik
 
-🚀 12+ years of experience building high-quality, scalable mobile applications  
-💼 Helping startups & businesses turn ideas into production-ready apps  
+## Full-Stack Mobile & Web Development Team
 
----
+We are a passionate team of software engineers with 12+ years of experience delivering high-quality digital solutions for startups, SMEs, and enterprises worldwide.
 
-## 👨‍💻 About Me
-- 📱 Expert in **Flutter, iOS (Swift / UIKit / SwiftUI), Android (Kotlin)**
-- 🧱 Strong in **MVVM, Clean Architecture, SOLID principles**
-- 🔐 Experienced with **secure APIs, Firebase, authentication, payments**
-- 🤝 Comfortable working with **remote clients & distributed teams**
-- 🎯 Focused on **clean code, performance, and long-term maintainability**
+Our focus is building scalable, secure, and user-friendly applications that help businesses grow. From idea validation to deployment and long-term maintenance, we work closely with clients throughout the entire development lifecycle.
 
----
+## 🚀 What We Do
 
-## 🛠 Tech Stack
-**Mobile**
-- Flutter, Dart
-- iOS: Swift, UIKit, SwiftUI
-- Android: Kotlin
+### 📱 Mobile App Development
 
-**Backend / Tools**
-- REST APIs, Firebase
-- Node.js, .NET APIs (integration)
-- Git, GitHub, CI/CD
-- SQLite, PostgreSQL
+* Flutter
+* Android (Kotlin & Java)
+* iOS (Swift & Objective-C)
 
-**Architecture & Practices**
-- MVVM, Clean Architecture
-- Dependency Injection
-- Unit & Widget Testing
-- Performance Optimization
+### 🌐 Web Development
 
----
+* React.js
+* Next.js
+* ASP.NET Core
+* Blazor
+* HTML5, CSS3, JavaScript, TypeScript
 
-## 📌 Featured Projects
-🔹 **Flutter Clean Architecture App**  
-- Scalable project structure  
-- API integration  
-- State management best practices  
+### ⚙️ Backend Development
 
-🔹 **iOS Advanced Concepts Demo**  
-- Concurrency & multithreading  
-- Memory management  
-- Real-world patterns  
+* .NET Core
+* ASP.NET Web API
+* Node.js
+* Python
+* REST APIs
+* Microservices
 
-🔹 **Cross-Platform Business App**  
-- Flutter UI + native integrations  
-- Firebase auth & notifications  
+### 🗄️ Database
 
-👉 Check pinned repositories below ⬇️
+* SQL Server
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQLite
 
----
+### ☁️ Cloud & DevOps
 
-## 💼 Freelance Services
-I help clients with:
-- 📱 End-to-end mobile app development
-- 🔄 Existing app improvement & refactoring
-- ⚡ Performance & architecture optimization
-- 🧪 Bug fixing & stability improvements
-- 🚀 App Store & Play Store deployment
+* Microsoft Azure
+* AWS
+* Firebase
+* Docker
+* GitHub Actions
 
----
+## 💼 Our Expertise
 
-## 🤝 Let’s Work Together
-- 📧 Email: **pkdaxini@gmail.com**
-- 🔗 LinkedIn: **www.linkedin.com/in/pratik-daxini-79987740**
-- 🌐 Portfolio: **[Pratik D.](https://www.upwork.com/freelancers/pratikd34)**
+* SaaS Applications
+* CRM & ERP Systems
+* Healthcare Solutions
+* Hospitality Platforms
+* E-commerce Applications
+* Finance & Investment Apps
+* Logistics & Transportation
+* Booking & Scheduling Systems
+* AI Integration
+* Third-party API Integration
+* Payment Gateway Integration
+* Push Notifications
+* Real-time Applications
+* Cloud Deployment
+* Application Maintenance & Support
 
-💬 Open to **long-term contracts**, **startup collaborations**, and **maintenance work**
+## 👥 Our Team
+
+Our in-house team includes experienced:
+
+* Mobile App Developers
+* .NET Developers
+* React Developers
+* Node.js Developers
+* Backend Engineers
+* UI/UX Designers
+* QA Engineers
+
+We collaborate to deliver production-ready software with clean architecture, scalable code, and reliable performance.
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,react,nextjs,nodejs,dotnet,cs,python,typescript,javascript,html,css,mysql,postgres,mongodb,firebase,azure,aws,docker,git,github,vscode,visualstudio" />
+
+</p>
+
+## 📊 What We Deliver
+
+* Clean Architecture
+* Scalable Solutions
+* Responsive UI/UX
+* High Performance Applications
+* Secure APIs
+* Production-ready Code
+* Long-term Maintenance
+* Agile Development
+
+## 🤝 Let's Build Something Great
+
+Whether you're looking to build a new product, modernize an existing application, or expand your development capacity, we'd love to help.
+
+Feel free to connect and explore our repositories.
+
+⭐ If you find our work helpful, don't forget to star our repositories!
