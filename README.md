@@ -1,107 +1,182 @@
-# Hi there 👋 I'm Pratik
+<h1 align="center">Hi 👋, I'm Pratik</h1>
 
-## Full-Stack Mobile & Web Development Team
+<h3 align="center">
+Building High-Quality Mobile, Web & Backend Solutions
+</h3>
 
-We are a passionate team of software engineers with 12+ years of experience delivering high-quality digital solutions for startups, SMEs, and enterprises worldwide.
+<p align="center">
+We are a passionate software development team helping startups and businesses build scalable digital products.
+</p>
 
-Our focus is building scalable, secure, and user-friendly applications that help businesses grow. From idea validation to deployment and long-term maintenance, we work closely with clients throughout the entire development lifecycle.
+---
 
-## 🚀 What We Do
+## 🚀 About Us
 
-### 📱 Mobile App Development
+With **12+ years of software development experience**, we specialize in building modern, scalable and secure applications for startups, SMEs and enterprises.
 
-* Flutter
-* Android (Kotlin & Java)
-* iOS (Swift & Objective-C)
+Our in-house team delivers complete software solutions—from UI/UX to backend architecture, cloud deployment and long-term support.
 
-### 🌐 Web Development
+We focus on writing clean, maintainable and production-ready code while following industry best practices.
 
-* React.js
-* Next.js
-* ASP.NET Core
-* Blazor
-* HTML5, CSS3, JavaScript, TypeScript
+---
 
-### ⚙️ Backend Development
+## 💻 What We Build
 
-* .NET Core
-* ASP.NET Web API
-* Node.js
-* Python
-* REST APIs
-* Microservices
+📱 Mobile Applications
 
-### 🗄️ Database
+🌐 Web Applications
 
-* SQL Server
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQLite
+⚙️ Backend APIs
 
-### ☁️ Cloud & DevOps
+☁ Cloud Solutions
 
-* Microsoft Azure
-* AWS
-* Firebase
-* Docker
-* GitHub Actions
+🤖 AI-powered Applications
 
-## 💼 Our Expertise
+🏢 Enterprise Software
 
-* SaaS Applications
-* CRM & ERP Systems
-* Healthcare Solutions
-* Hospitality Platforms
-* E-commerce Applications
-* Finance & Investment Apps
-* Logistics & Transportation
-* Booking & Scheduling Systems
-* AI Integration
-* Third-party API Integration
-* Payment Gateway Integration
-* Push Notifications
-* Real-time Applications
-* Cloud Deployment
-* Application Maintenance & Support
+📊 SaaS Platforms
+
+🔄 System Integrations
+
+---
+
+## 👨‍💻 Technologies
+
+### Mobile
+
+- Flutter
+- Android (Kotlin / Java)
+- iOS (Swift / Objective-C)
+
+### Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+
+- ASP.NET Core
+- .NET
+- Node.js
+- Python
+- REST APIs
+- SignalR
+
+### Database
+
+- SQL Server
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+
+### Cloud & DevOps
+
+- Microsoft Azure
+- AWS
+- Firebase
+- Docker
+- GitHub Actions
+
+---
+
+## 🏆 Our Expertise
+
+✔ Custom Software Development
+
+✔ SaaS Product Development
+
+✔ Mobile App Development
+
+✔ Enterprise Applications
+
+✔ Healthcare Solutions
+
+✔ Hospitality Platforms
+
+✔ CRM & ERP Systems
+
+✔ Logistics Solutions
+
+✔ E-commerce Platforms
+
+✔ AI Integration
+
+✔ Payment Gateway Integration
+
+✔ Real-time Applications
+
+✔ API Development & Integration
+
+✔ Cloud Deployment
+
+✔ Maintenance & Support
+
+---
 
 ## 👥 Our Team
 
-Our in-house team includes experienced:
+Our in-house team consists of experienced
 
-* Mobile App Developers
-* .NET Developers
-* React Developers
-* Node.js Developers
-* Backend Engineers
-* UI/UX Designers
-* QA Engineers
+- Mobile Developers
+- .NET Developers
+- React Developers
+- Node.js Developers
+- UI/UX Designers
+- QA Engineers
 
-We collaborate to deliver production-ready software with clean architecture, scalable code, and reliable performance.
+Together we build reliable, scalable and production-ready software solutions.
 
-## 🛠️ Tech Stack
+---
 
-<p align="left">
+## 📈 Development Principles
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,react,nextjs,nodejs,dotnet,cs,python,typescript,javascript,html,css,mysql,postgres,mongodb,firebase,azure,aws,docker,git,github,vscode,visualstudio" />
+✅ Clean Architecture
 
-</p>
+✅ SOLID Principles
 
-## 📊 What We Deliver
+✅ Agile Development
 
-* Clean Architecture
-* Scalable Solutions
-* Responsive UI/UX
-* High Performance Applications
-* Secure APIs
-* Production-ready Code
-* Long-term Maintenance
-* Agile Development
+✅ CI/CD
 
-## 🤝 Let's Build Something Great
+✅ Secure Coding Practices
 
-Whether you're looking to build a new product, modernize an existing application, or expand your development capacity, we'd love to help.
+✅ Performance Optimization
 
-Feel free to connect and explore our repositories.
+✅ Responsive Design
 
-⭐ If you find our work helpful, don't forget to star our repositories!
+✅ Scalable Architecture
+
+---
+
+## 📊 Industries
+
+🏥 Healthcare
+
+🏨 Hospitality
+
+💰 Finance
+
+🚚 Logistics
+
+🛒 E-commerce
+
+🏢 Enterprise
+
+📚 Education
+
+📱 On-demand Services
+
+---
+
+## 🤝 Let's Connect
+
+We're always interested in collaborating on exciting software projects.
+
+Feel free to explore our repositories and connect with us.
+
+⭐ If you like our work, don't forget to star our repositories.
